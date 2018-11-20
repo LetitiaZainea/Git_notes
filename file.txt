@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Imi dai dureri de cap, tembelo! 
 
 Mi-e foame
 
 Si mie
+=======
+Imi dai dureri de cap, tembelo!
+>>>>>>> parent of 7cabd95... Add a picture
