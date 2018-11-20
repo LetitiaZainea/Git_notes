@@ -5,8 +5,9 @@ Mountains In Wales
 * Yr Wyddfa
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mi se face foame. Vrei KFC? DA!
-=======
+
 
 
 
